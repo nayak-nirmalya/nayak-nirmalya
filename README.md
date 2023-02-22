@@ -41,8 +41,29 @@ const thanks = (to) => {
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white" alt="nayak-nirmalya" />
     </a>
     <br/>
-    <p>Welcome to my profile! Thanks for visiting and I'd love to connect!</p>
+    <br/>
+<!--     <p>Welcome to my profile! Thanks for visiting and I'd love to connect!</p> -->
 </div>
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Nirmalya Nayak"
+        self.role = "Software Engineer"
+        self.language_spoken = ["en_US", "hi_IN"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 - 🔭 I’m currently working on lot of cool stuffs 😎.
 - 🌱 I’m currently learning everything 🤣.

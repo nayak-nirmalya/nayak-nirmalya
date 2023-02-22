@@ -169,7 +169,7 @@ const thanks = (to) => {
 
 <hr>
 
-<h3>🗂️ Highlight Projects</h3>
+🗂️ Highlight Projects
 
 <br/>
 

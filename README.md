@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Nirmalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayak-nirmalya&show_icons=true&theme=radical&hide=prs,issues&count_private=true)
+# Nirmalya Nayak 👨‍💻
+
+[![Linkedin Badge](https://img.shields.io/badge/-nirmalya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nirmalya-nayak/)](https://www.linkedin.com/in/nirmalya-nayak/)
+
+📈 My GitHub Stats:
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nayak-nirmalya&show_icons=true&theme=radical&hide=prs,issues&count_private=true" alt="nayak-nirmalya" />
+<!-- ![Nirmalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayak-nirmalya&show_icons=true&theme=radical&hide=prs,issues&count_private=true) -->
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayak-nirmalya&hide=Jupyter%20Notebook&theme=radical&langs_count=8)

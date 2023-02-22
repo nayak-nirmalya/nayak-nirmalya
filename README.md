@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Nirmalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayak-nirmalya&show_icons=true&theme=radical&hide=prs,issues&count_private=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayak-nirmalya&hide=Jupyter%20Notebook&theme=radical&langs_count=8)
+
+
+<a href="https://github.com/nayak-nirmalya/reddit-clone-full-stack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayak-nirmalya&repo=reddit-clone-full-stack&theme=radical" />
+</a>
+<a href="https://github.com/nayak-nirmalya/millow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayak-nirmalya&repo=millow&show_owner=true&theme=radical" />
+</a>

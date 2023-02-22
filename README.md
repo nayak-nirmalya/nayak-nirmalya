@@ -190,7 +190,7 @@ me.say_hi()
 
 <hr>
 
-🗂️ Highlight Projects
+🗂️ Highlight Projects:
 
 <br/>
 

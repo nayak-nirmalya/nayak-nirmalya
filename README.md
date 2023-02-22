@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 # Nirmalya Nayak 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-nirmalya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nirmalya-nayak/)](https://www.linkedin.com/in/nirmalya-nayak/)
+[![Gmail Badge](https://img.shields.io/badge/-n.nayak263@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:n.nayak263@gmail.com)](mailto:n.nayak263@gmail.com)
 
 📈 My GitHub Stats:
 

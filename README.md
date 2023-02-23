@@ -72,13 +72,13 @@ me.say_hi()
 
 📈 My GitHub Stats:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nayak-nirmalya&show_icons=true&theme=radical&hide=prs,issues&count_private=true" alt="nayak-nirmalya" />
+<p align="center"> <img src="https://readme-stats-nayak-nirmalya.vercel.app/api?username=nayak-nirmalya&show_icons=true&theme=radical&hide=prs,issues&count_private=true" alt="nayak-nirmalya" />
 
 <hr>
 
 ⌨️ My Mostly Used Languages:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayak-nirmalya&layout=compact&hide=Jupyter%20Notebook,ejs&theme=radical&langs_count=8" alt="nayak-nirmalya" />
+<p align="center"> <img src="https://readme-stats-nayak-nirmalya.vercel.app/api/top-langs/?username=nayak-nirmalya&layout=compact&hide=Jupyter%20Notebook,ejs&theme=radical&langs_count=8" alt="nayak-nirmalya" />
 
 <hr>
 
@@ -196,9 +196,9 @@ me.say_hi()
 
 <div align='center'>
     <a href="https://github.com/nayak-nirmalya/reddit-clone-full-stack">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayak-nirmalya&repo=reddit-clone-full-stack&theme=radical" />
+    <img align="center" src="https://readme-stats-nayak-nirmalya.vercel.app/api/pin/?username=nayak-nirmalya&repo=reddit-clone-full-stack&theme=radical" />
     </a>
     <a href="https://github.com/nayak-nirmalya/millow">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayak-nirmalya&repo=millow&show_owner=true&theme=radical" />
+    <img align="center" src="https://readme-stats-nayak-nirmalya.vercel.app/api/pin/?username=nayak-nirmalya&repo=millow&show_owner=true&theme=radical" />
     </a>
 </div>

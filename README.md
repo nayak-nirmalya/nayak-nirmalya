@@ -26,10 +26,10 @@ const thanks = (to) => {
 
 <div align="center">
     <a href='https://www.linkedin.com/in/nirmalya-nayak/'>
-        <img src="https://img.shields.io/badge/-nirmalya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nirmalya-nayak/" alt="nayak-nirmalya" />
+        <img src="https://img.shields.io/badge/-nirmalya-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="nirmalya-nayak" />
     </a>
     <a href='mailto:n.nayak263@gmail.com'>
-        <img src="https://img.shields.io/badge/-n.nayak263@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:n.nayak263@gmail.com" alt="nayak-nirmalya" />
+        <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="n.nayak263@gmail.com" />
     </a>
     <a href='https://github.com/nayak-nirmalya/?tab=follow'>
         <img src="https://img.shields.io/github/followers/nayak-nirmalya?label=Follow&style=social" alt="nayak-nirmalya" />

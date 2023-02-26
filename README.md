@@ -38,7 +38,7 @@ const thanks = (to) => {
         <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139" alt="nayak-nirmalya" />
     </a>
     <a href='https://www.hackerrank.com/n_nayak'>
-        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white" alt="nayak-nirmalya" />
+        <img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=HackerRank&logoColor=white" alt="nayak-nirmalya" />
     </a>
     <br/>
     <br/>

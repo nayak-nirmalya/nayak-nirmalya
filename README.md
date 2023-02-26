@@ -14,6 +14,7 @@ const thanks = (to) => {
     https://github.com/Ileriayo/markdown-badges
     https://github.com/DenverCoder1/readme-typing-svg
     https://github.com/anuraghazra/github-readme-stats
+    https://github.com/ashutosh00710/github-readme-activity-graph
     https://github.com/abhisheknaiidu/awesome-github-profile-readme
     https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md
 }
@@ -70,15 +71,21 @@ me.say_hi()
 
 <hr>
 
-📈 My GitHub Stats:
+📊 My GitHub Stats:
 
 <p align="center"> <img src="https://readme-stats-nayak-nirmalya.vercel.app/api?username=nayak-nirmalya&show_icons=true&theme=radical&hide=prs,issues&count_private=true" alt="nayak-nirmalya" />
 
 <hr>
 
-⌨️ My Mostly Used Languages:
+💾 My Mostly Used Languages:
 
 <p align="center"> <img src="https://readme-stats-nayak-nirmalya.vercel.app/api/top-langs/?username=nayak-nirmalya&layout=compact&hide=Jupyter%20Notebook,ejs&theme=radical&langs_count=8" alt="nayak-nirmalya" />
+
+<hr>
+
+📈 My GitHub Activity Graph:
+
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nayak-nirmalya&theme=rogue&bg_color=141321&color=8accca&title_color=c03671&line=f1e05a&point=3178c5&radius=10&area=true&area_color=fdac54" alt="nayak-nirmalya" />
 
 <hr>
 

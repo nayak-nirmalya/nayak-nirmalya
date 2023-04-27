@@ -220,6 +220,38 @@ me.say_hi()
         <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
     </a>
 </p>
+
+<h3>🎛️ Operating Systems</h3>
+
+<p>
+    <a href="#">
+        <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Pop!_OS" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Chrome OS" src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Fedora" src ="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="openSUSE" src="https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white">
+    </a>
+</p>
 </div>
 
 <hr>

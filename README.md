@@ -92,7 +92,7 @@ me.say_hi()
 <div align='center'>
 <h2>🛠️ My Favorite Tools</h2>
 
-<h3>👨‍💻 Programming and Markup Languages</h3>
+<h3>👨‍💻 Programming & Markup Languages</h3>
 
 <p>
     <a href="#">
@@ -133,7 +133,7 @@ me.say_hi()
     </a>
 </p>
 
-<h3>🧰 Frameworks and Libraries</h3>
+<h3>🧰 Frameworks & Libraries</h3>
 
 <p>
     <a href="#">
@@ -189,35 +189,38 @@ me.say_hi()
     </a>
 </p>
 
-<h3>🗄️ Databases and Cloud Hosting/BaaS </h3>
+<h3>🗄️ Databases/ORM & Cloud Hosting/BaaS </h3>
 
 <p>
     <a href="#">
-        <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
+        <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
     </a>
     <a href="#">
-        <img alt="Google Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase">
+        <img alt="Google Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
     </a>
     <a href="#">
-        <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white">
+        <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
     </a>
     <a href="#">
-        <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
+        <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white">
     </a>
     <a href="#">
-        <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
+        <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+    </a>
+        <a href="#">
+        <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
     </a>
     <a href="#">
-        <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+        <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
     </a>
     <a href="#">
-        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
+        <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
     </a>
     <a href="#">
-        <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white">
     </a>
     <a href="#">
-        <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
+        <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
     </a>
 </p>
 

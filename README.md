@@ -1,15 +1,4 @@
 <!--
-**nayak-nirmalya/nayak-nirmalya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 const thanks = (to) => {
     https://github.com/Ileriayo/markdown-badges
     https://github.com/DenverCoder1/readme-typing-svg
@@ -47,7 +36,6 @@ const thanks = (to) => {
     </a>
     <br/>
     <br/>
-<!--     <p>Welcome to my profile! Thanks for visiting and I'd love to connect!</p> -->
 </div>
 
 ```python
@@ -274,4 +262,12 @@ me.say_hi()
     <a href="https://github.com/nayak-nirmalya/millow">
     <img align="center" src="https://readme-stats-nayak-nirmalya.vercel.app/api/pin/?username=nayak-nirmalya&repo=millow&show_owner=true&theme=radical" />
     </a>
+</div>
+
+<hr>
+
+🐍 Contribution Graph Snake Game:
+
+<div align='center'>
+    <img align="center" src="https://github.com/nayak-nirmalya/nayak-nirmalya/blob/output/github-contribution-grid-snake.svg" />
 </div>

@@ -263,11 +263,3 @@ me.say_hi()
     <img align="center" src="https://readme-stats-nayak-nirmalya.vercel.app/api/pin/?username=nayak-nirmalya&repo=millow&show_owner=true&theme=radical" />
     </a>
 </div>
-
-<hr>
-
-🐍 Contribution Graph Snake Game:
-
-<div align='center'>
-    <img align="center" src="https://github.com/nayak-nirmalya/nayak-nirmalya/blob/output/github-contribution-grid-snake.svg" />
-</div>

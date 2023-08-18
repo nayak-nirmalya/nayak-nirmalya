@@ -31,6 +31,9 @@ const thanks = (to) => {
     <a href='https://www.hackerrank.com/n_nayak' target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="nayak-nirmalya" />
     </a>
+    <a href='https://t.me/+917008944644' target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="+91-7008944644" />
+    </a>
     <br/>
     <br/>
 </div>

@@ -262,8 +262,8 @@ me.say_hi()
     <a href="https://github.com/nayak-nirmalya/tinder-clone">
         <img align="center" src="https://readme-stats-nayak-nirmalya.vercel.app/api/pin/?username=nayak-nirmalya&repo=tinder-clone&show_owner=true&theme=radical" />
     </a>
-    <a href="https://github.com/nayak-nirmalya/reddit-clone-full-stack">
-        <img align="center" src="https://readme-stats-nayak-nirmalya.vercel.app/api/pin/?username=nayak-nirmalya&repo=reddit-clone-full-stack&theme=radical" />
+    <a href="https://github.com/nayak-nirmalya/discord-clone">
+        <img align="center" src="https://readme-stats-nayak-nirmalya.vercel.app/api/pin/?username=nayak-nirmalya&repo=discord-clone&theme=radical" />
     </a>
     <a href="https://github.com/nayak-nirmalya/millow">
         <img align="center" src="https://readme-stats-nayak-nirmalya.vercel.app/api/pin/?username=nayak-nirmalya&repo=millow&show_owner=true&theme=radical" />

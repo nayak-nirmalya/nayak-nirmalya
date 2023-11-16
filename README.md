@@ -103,6 +103,9 @@ me.say_hi()
         <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white">
     </a>
     <a href="#">
+        <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
+    </a>
+    <a href="#">
         <img alt="Go/GoLang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
     </a>
     <a href="#">

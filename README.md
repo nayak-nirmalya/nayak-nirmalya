@@ -263,15 +263,15 @@ me.say_hi()
 
 <div align='center'>
     <a href="https://github.com/nayak-nirmalya/ai-saas">
-        <img align="center" src="https://readme-stats-nayak-nirmalya.vercel.app/api/pin/?username=nayak-nirmalya&repo=ai-saas&show_owner=true&theme=radical" />
+        <img align="center" src="https://github-readme-stats-three-psi-99.vercel.app/api/pin/?username=nayak-nirmalya&repo=ai-saas&show_owner=true&theme=radical" />
     </a>
     <a href="https://github.com/nayak-nirmalya/tinder-clone">
-        <img align="center" src="https://readme-stats-nayak-nirmalya.vercel.app/api/pin/?username=nayak-nirmalya&repo=tinder-clone&show_owner=true&theme=radical" />
+        <img align="center" src="https://github-readme-stats-three-psi-99.vercel.app/api/pin/?username=nayak-nirmalya&repo=tinder-clone&show_owner=true&theme=radical" />
     </a>
     <a href="https://github.com/nayak-nirmalya/discord-clone">
-        <img align="center" src="https://readme-stats-nayak-nirmalya.vercel.app/api/pin/?username=nayak-nirmalya&repo=discord-clone&show_owner=true&theme=radical" />
+        <img align="center" src="https://github-readme-stats-three-psi-99.vercel.app/api/pin/?username=nayak-nirmalya&repo=discord-clone&show_owner=true&theme=radical" />
     </a>
     <a href="https://github.com/nayak-nirmalya/millow">
-        <img align="center" src="https://readme-stats-nayak-nirmalya.vercel.app/api/pin/?username=nayak-nirmalya&repo=millow&show_owner=true&theme=radical" />
+        <img align="center" src="https://github-readme-stats-three-psi-99.vercel.app/api/pin/?username=nayak-nirmalya&repo=millow&show_owner=true&theme=radical" />
     </a>
 </div>

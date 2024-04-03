@@ -25,11 +25,11 @@ const thanks = (to) => {
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="+91-7008944644" />
     </a>
     </a>
-    <a href='https://portfolio-nayak-nirmalya.vercel.app/' target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="nayak-nirmalya" />
+    <a href='https://nirmalya.xyz/' target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Website of Nirmalya Nayak" />
     </a>
     <a href='https://www.hackerrank.com/n_nayak' target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="nayak-nirmalya" />
+        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="n_nayak" />
     </a>
     <a href='https://t.me/+917008944644' target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="+91-7008944644" />

@@ -65,7 +65,14 @@ me.say_hi()
 
 📊 My GitHub Stats:
 
-<p align="center"> <img src="https://github-readme-stats-three-psi-99.vercel.app/api?username=nayak-nirmalya&show_icons=true&theme=radical&hide=prs,issues&count_private=true" alt="nayak-nirmalya" />
+<p align="center">
+    <a href='https://nirmalya.xyz/' target="_blank" rel="noopener noreferrer">
+        <img
+            src="https://github-readme-stats-three-psi-99.vercel.app/api?username=nayak-nirmalya&show_icons=true&theme=radical&hide=prs,issues&count_private=true" 
+            alt="My GitHub Stats"
+        />
+    </a>
+</p>
 
 <hr>
 

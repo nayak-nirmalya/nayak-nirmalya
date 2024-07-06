@@ -71,7 +71,12 @@ me.say_hi()
 
 💾 My Mostly Used Languages:
 
-<p align="center"> <img src="https://github-readme-stats-three-psi-99.vercel.app/api/top-langs/?username=nayak-nirmalya&layout=compact&hide=Jupyter%20Notebook,ejs&theme=radical&langs_count=8" alt="nayak-nirmalya" />
+<p align="center">
+    <img
+        src="https://github-readme-stats-three-psi-99.vercel.app/api/top-langs/?username=nayak-nirmalya&layout=compact&hide=Jupyter%20Notebook,ejs&theme=radical&langs_count=8"
+        alt="My Mostly Used Languages"
+    />
+</p>
 
 <hr>
 

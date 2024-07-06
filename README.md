@@ -89,7 +89,14 @@ me.say_hi()
 
 📈 My GitHub Activity Graph:
 
-<p align="center"> <img src="https://readme-activity-graph.vercel.app/graph?username=nayak-nirmalya&theme=rogue&bg_color=141321&color=8accca&title_color=c03671&line=f1e05a&point=3178c5&radius=10&area=true&area_color=fdac54" alt="nayak-nirmalya" />
+<p align="center">
+    <a href='https://nirmalya.xyz/' target="_blank" rel="noopener noreferrer">
+        <img 
+            src="https://readme-activity-graph.vercel.app/graph?username=nayak-nirmalya&theme=rogue&bg_color=141321&color=8accca&title_color=c03671&line=f1e05a&point=3178c5&radius=10&area=true&area_color=fdac54"
+            alt="My GitHub Activity Graph"
+        />
+    </a>
+</p>
 
 <hr>
 

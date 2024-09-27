@@ -68,7 +68,7 @@ me.say_hi()
 <p align="center">
     <a href='https://nirmalya.xyz/' target="_blank" rel="noopener noreferrer">
         <img
-            src="https://github-readme-stats-three-psi-99.vercel.app/api?username=nayak-nirmalya&show_icons=true&theme=radical&hide=prs,issues&count_private=true&include_all_commits=true" 
+            src="https://github-readme-stats-three-psi-99.vercel.app/api?username=nayak-nirmalya&show_icons=true&theme=radical&hide=prs,issues&count_private=true&include_all_commits=true&rank_icon=github" 
             alt="My GitHub Stats"
         />
     </a>

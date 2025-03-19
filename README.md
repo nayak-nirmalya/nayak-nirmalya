@@ -241,6 +241,9 @@ me.say_hi()
     <a href="#">
         <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
     </a>
+    <a href="#">
+        <img alt="Redis" src ="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    </a>
 </p>
 
 <h3>🎛️ Operating Systems</h3>

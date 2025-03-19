@@ -230,6 +230,9 @@ me.say_hi()
         <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
     </a>
     <a href="#">
+        <img alt="Prisma" src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000">
+    </a>
+    <a href="#">
         <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
     </a>
     <a href="#">
